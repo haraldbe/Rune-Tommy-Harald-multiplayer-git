@@ -1,2 +1,3 @@
-Name: Tommy Svendsen
 
+Name: Tommy Svendsen
+Favorite color: Blue
